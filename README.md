@@ -16,6 +16,6 @@ Once the project has been forked into your GitHub account you can make the desir
 Once you are happy with the changes you have made to the project you then submit a pull request back to the project owner.
 
 
+Instructions on how to fork, update and submit a pull request can be found [here](https://github.com/AirtightSecurity/UsingGithub/blob/216a68f7f8f32e0581f5fb02f0cbafe8652583ff/exercise-1.md) (work in progress).
 
-
-Instructions on how to fork, update and submit a pull request can be found [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
+In the meantime try [here](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
