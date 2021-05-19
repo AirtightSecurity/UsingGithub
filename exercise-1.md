@@ -10,6 +10,6 @@ Search for this project, use the search term AirtightSecurity.
 
 From the results there is one user with the name AirtightSecurity, click in user then click on Paul Woods AirtightSecurity
 
-<img src="https://i.ibb.co/8MJyCym/Click-on-Airtight-Security.png?v=4&s=100" width="250">
+<img src="https://i.ibb.co/8MJyCym/Click-on-Airtight-Security.png?v=4&s=100" width="350">
 
 
