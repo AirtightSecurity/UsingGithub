@@ -5,7 +5,7 @@ This project is a test project so students can fork the repository, make an upda
 
 ## What is a fork?
 
-Fork a project means when you find a porject that is not yours and you want to contribute to it (propose changes) you can fork that project into your GitHub account.
+Fork a project means when you find a project that is not yours and you want to contribute to it (propose changes) you can fork that project into your GitHub account.
 
 ## Make changes to the project
 
